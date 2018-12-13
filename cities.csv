@@ -1,0 +1,1199 @@
+Beginning Data Retrieval
+----------------------------------
+Processing record 1 | ('Mahon', 2965139)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mahon
+Processing record 2 | ('Punta Arenas', 3874787)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=punta arenas
+Processing record 3 | ('Teya', 3526662)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=teya
+Processing record 4 | ('Alice Springs', 2077895)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=alice springs
+Processing record 5 | ('Nosy Varika', 1058080)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nosy varika
+Processing record 6 | ('Nelson Bay', 2155562)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nelson bay
+Processing record 7 | ('Srednekolymsk', 2121025)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=srednekolymsk
+Processing record 8 | ('Hobart', 2163355)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hobart
+City not found. Skipping...
+Processing record 9 | ('Hermanus', 3366880)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hermanus
+City not found. Skipping...
+Processing record 10 | ('Papara', 3395473)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=papara
+Processing record 11 | ('Ribeira Grande', 3372707)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ribeira grande
+City not found. Skipping...
+Processing record 12 | ('Ushuaia', 3833367)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ushuaia
+Processing record 13 | ('Faanui', 4034551)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=faanui
+Processing record 14 | ('Puerto Ayora', 3652764)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=puerto ayora
+Processing record 15 | ('Vestmannaeyjar', 3412093)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vestmannaeyjar
+Processing record 16 | ('Kodiak', 4407665)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kodiak
+Processing record 17 | ('Mount Gambier', 2156643)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mount gambier
+City not found. Skipping...
+Processing record 18 | ('Qaqortoq', 3420846)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=qaqortoq
+Processing record 19 | ('Fernley', 5504003)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=fernley
+Processing record 20 | ('Hithadhoo', 1282256)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hithadhoo
+City not found. Skipping...
+Processing record 21 | ('Eureka', 5563397)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=eureka
+Processing record 22 | ('Ngunguru', 2186111)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ngunguru
+City not found. Skipping...
+Processing record 23 | ('Karimpur', 1267754)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=karimpur
+Processing record 24 | ('Ponta do Sol', 3453439)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ponta do sol
+Processing record 25 | ('Leua', 876233)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=leua
+Processing record 26 | ('Yellowknife', 6185377)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yellowknife
+Processing record 27 | ('Tromso', 3133895)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tromso
+Processing record 28 | ('Vao', 588365)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vao
+Processing record 29 | ('Robertsport', 2274275)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=robertsport
+Processing record 30 | ('Najran', 103630)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=najran
+Processing record 31 | ('Avarua', 4035715)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=avarua
+City not found. Skipping...
+City not found. Skipping...
+Processing record 32 | ('Harwich', 4939004)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=harwich
+Processing record 33 | ('Atuona', 4020109)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=atuona
+Processing record 34 | ('Portland', 5746545)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=portland
+Processing record 35 | ('New Norfolk', 2155415)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=new norfolk
+Processing record 36 | ('Puerto Madryn', 3840092)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=puerto madryn
+Processing record 37 | ('General Pico', 3855075)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=general pico
+Processing record 38 | ('Huhi', 3526924)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=huhi
+Processing record 39 | ('Nikolskoye', 546105)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nikolskoye
+Processing record 40 | ('Port Alfred', 964432)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port alfred
+City not found. Skipping...
+Processing record 41 | ('Luwuk', 1637001)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=luwuk
+Processing record 42 | ('Dikson', 1507390)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dikson
+Processing record 43 | ('Bethel', 5880568)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bethel
+City not found. Skipping...
+Processing record 44 | ('Suntar', 2015913)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=suntar
+Processing record 45 | ('Inhambane', 1045114)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=inhambane
+Processing record 46 | ('Vaini', 1273574)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vaini
+Processing record 47 | ('Yining', 1786538)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yining
+Processing record 48 | ('Bluff', 2175403)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bluff
+Processing record 49 | ('Albany', 5106834)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=albany
+Processing record 50 | ('Gat', 2249901)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gat
+Processing record 51 | ('Pevek', 2122090)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pevek
+City not found. Skipping...
+Processing record 52 | ('Nianzishan', 2035593)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nianzishan
+Processing record 53 | ('Tura', 1254046)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tura
+City not found. Skipping...
+Processing record 54 | ('Hanmer Springs', 2190299)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hanmer springs
+Processing record 55 | ('Burnie', 2173125)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=burnie
+Processing record 56 | ('Chokurdakh', 2126123)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chokurdakh
+Processing record 57 | ('Hambantota', 1244926)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hambantota
+Processing record 58 | ('Pirgos', 261814)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pirgos
+Processing record 59 | ('Verkhnyaya Tishanka', 474473)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=verkhnyaya tishanka
+Processing record 60 | ('Rikitea', 4030556)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rikitea
+Processing record 61 | ('Greifswald', 2917788)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=greifswald
+Processing record 62 | ('Saint-Augustin', 3031582)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint-augustin
+Processing record 63 | ('Qaanaaq', 3831208)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=qaanaaq
+Processing record 64 | ('Saint Anthony', 5606187)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint anthony
+Processing record 65 | ('Taoudenni', 2450173)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=taoudenni
+Processing record 66 | ('Teghra', 1254813)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=teghra
+Processing record 67 | ('Butaritari', 2110227)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=butaritari
+Processing record 68 | ('Isiro', 215771)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=isiro
+Processing record 69 | ('Bredasdorp', 1015776)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bredasdorp
+Processing record 70 | ('San Isidro', 1689639)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=san isidro
+City not found. Skipping...
+Processing record 71 | ('Dingle', 1714733)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dingle
+Processing record 72 | ('Maragogi', 3395458)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=maragogi
+Processing record 73 | ('Marabba', 370510)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=marabba
+Processing record 74 | ('Kirakira', 2178753)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kirakira
+Processing record 75 | ('Haines Junction', 5969025)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=haines junction
+Processing record 76 | ('Jamestown', 2069194)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jamestown
+Processing record 77 | ('Mataura', 6201424)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mataura
+Processing record 78 | ('Touros', 3386213)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=touros
+Processing record 79 | ('Koulikoro', 2454530)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=koulikoro
+City not found. Skipping...
+City not found. Skipping...
+City not found. Skipping...
+Processing record 80 | ('Upernavik', 3418910)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=upernavik
+Processing record 81 | ('Saint-Philippe', 6138908)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint-philippe
+Processing record 82 | ('Cape Town', 3369157)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cape town
+City not found. Skipping...
+Processing record 83 | ('Busselton', 2075265)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=busselton
+Processing record 84 | ('Pangnirtung', 6096551)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pangnirtung
+Processing record 85 | ('Harper', 4696310)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=harper
+Processing record 86 | ('Sao Geraldo do Araguaia', 3388760)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sao geraldo do araguaia
+Processing record 87 | ('Souillac', 3026644)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=souillac
+Processing record 88 | ('Kon Tum', 1578500)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kon tum
+Processing record 89 | ('Kurumkan', 2021188)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kurumkan
+Processing record 90 | ('Aklavik', 5882953)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=aklavik
+City not found. Skipping...
+Processing record 91 | ('Longyearbyen', 2729907)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=longyearbyen
+Processing record 92 | ('Cape Canaveral', 4149959)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cape canaveral
+City not found. Skipping...
+Processing record 93 | ('Vila Franca do Campo', 3372472)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vila franca do campo
+Processing record 94 | ('Shimoda', 1852357)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=shimoda
+Processing record 95 | ('Geraldton', 5960603)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=geraldton
+Processing record 96 | ('Alofi', 4036284)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=alofi
+Processing record 97 | ('Lompoc', 5367788)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lompoc
+Processing record 98 | ('Jinchang', 1805733)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jinchang
+Processing record 99 | ('Mar del Plata', 3863379)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mar del plata
+Processing record 100 | ('Sao Joao da Barra', 3448903)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sao joao da barra
+Processing record 101 | ('Palu', 1633034)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=palu
+Processing record 102 | ('Noumea', 2139521)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=noumea
+Processing record 103 | ('Hilo', 5855927)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hilo
+Processing record 104 | ('San Patricio', 3437029)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=san patricio
+Processing record 105 | ('Chara', 262462)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chara
+Processing record 106 | ('El Sauzal', 3836772)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=el sauzal
+Processing record 107 | ('Bambous Virieux', 1106677)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bambous virieux
+Processing record 108 | ('Bartica', 3379507)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bartica
+Processing record 109 | ('Tuding', 1681022)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tuding
+Processing record 110 | ('Port Hawkesbury', 6111867)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port hawkesbury
+Processing record 111 | ('Arnedo', 6359008)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=arnedo
+Processing record 112 | ('Katsuura', 1865309)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=katsuura
+City not found. Skipping...
+City not found. Skipping...
+Processing record 113 | ('Flin Flon', 5954718)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=flin flon
+City not found. Skipping...
+Processing record 114 | ('Urdoma', 478769)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=urdoma
+Processing record 115 | ('Tafalla', 3108412)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tafalla
+Processing record 116 | ('Shaghat', 174782)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=shaghat
+Processing record 117 | ('Kiunga', 2093846)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kiunga
+Processing record 118 | ('East London', 1006984)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=east london
+Processing record 119 | ('Poronaysk', 2121909)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=poronaysk
+Processing record 120 | ('Palmerston North', 2185018)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=palmerston north
+City not found. Skipping...
+Processing record 121 | ('Tuktoyaktuk', 6170031)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tuktoyaktuk
+Processing record 122 | ('Natal', 3394023)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=natal
+Processing record 123 | ('Minab', 123941)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=minab
+Processing record 124 | ('Barrow', 3833859)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=barrow
+Processing record 125 | ('Arraial do Cabo', 3471451)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=arraial do cabo
+Processing record 126 | ('Khatanga', 2022572)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=khatanga
+Processing record 127 | ('Kapaa', 5848280)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kapaa
+City not found. Skipping...
+Processing record 128 | ('Rehoboth', 3353540)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rehoboth
+Processing record 129 | ('Vardo', 4372777)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vardo
+Processing record 130 | ('Lebu', 344979)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lebu
+Processing record 131 | ('Talcahuano', 3870282)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=talcahuano
+Processing record 132 | ('Saint George', 262462)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint george
+Processing record 133 | ('Cabo San Lucas', 3985710)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cabo san lucas
+Processing record 134 | ('The Valley', 3573374)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=the valley
+Processing record 135 | ('Anahuac', 4670707)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=anahuac
+Processing record 136 | ('Berlevag', 780687)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=berlevag
+Processing record 137 | ('Quatre Cocos', 1106643)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=quatre cocos
+Processing record 138 | ('Axim', 2303611)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=axim
+Processing record 139 | ('Port-Gentil', 2396518)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port-gentil
+City not found. Skipping...
+Processing record 140 | ('Salinopolis', 3389822)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=salinopolis
+Processing record 141 | ('Ust-Tsilma', 477940)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ust-tsilma
+City not found. Skipping...
+Processing record 142 | ('Jasper', 4069659)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jasper
+Processing record 143 | ('Mahebourg', 934322)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mahebourg
+Processing record 144 | ('Bhabua', 1276371)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bhabua
+Processing record 145 | ('Kahului', 5847411)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kahului
+Processing record 146 | ('Kaitangata', 2208248)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kaitangata
+Processing record 147 | ('Lynn Haven', 4163049)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lynn haven
+Processing record 148 | ('Baghdad', 98182)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=baghdad
+Processing record 149 | ('Gotsu', 1863521)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gotsu
+Processing record 150 | ('Daru', 2409663)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=daru
+Processing record 151 | ('Lagoa', 2267254)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lagoa
+Processing record 152 | ('Mae Sai', 1152194)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mae sai
+Processing record 153 | ('Santa Rosa', 3835994)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=santa rosa
+Processing record 154 | ('Torbay', 6167817)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=torbay
+Processing record 155 | ('Svobodnyy', 479426)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=svobodnyy
+Processing record 156 | ('Ossora', 2122389)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ossora
+Processing record 157 | ('Constitucion', 4011743)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=constitucion
+Processing record 158 | ('Halmstad', 2708365)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=halmstad
+Processing record 159 | ('Port Elizabeth', 4501427)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port elizabeth
+Processing record 160 | ('Comodoro Rivadavia', 3860443)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=comodoro rivadavia
+Processing record 161 | ('Tasiilaq', 3424607)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tasiilaq
+Processing record 162 | ('Ancud', 3899695)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ancud
+Processing record 163 | ('Lucapa', 145724)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lucapa
+Processing record 164 | ('Ucluelet', 6171633)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ucluelet
+Processing record 165 | ('Kapit', 1737185)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kapit
+Processing record 166 | ('Georgetown', 3378644)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=georgetown
+Processing record 167 | ('Naze', 2337542)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=naze
+Processing record 168 | ('Kavieng', 2094342)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kavieng
+Processing record 169 | ('Micomeseng', 2307970)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=micomeseng
+Processing record 170 | ('Cleburne', 4681976)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cleburne
+Processing record 171 | ('Vanavara', 2013727)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vanavara
+Processing record 172 | ('Luanda', 2240449)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=luanda
+Processing record 173 | ('Sharan', 1120879)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sharan
+Processing record 174 | ('Sangar', 2017215)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sangar
+City not found. Skipping...
+Processing record 175 | ('Boden', 606531)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=boden
+Processing record 176 | ('Hasaki', 2112802)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hasaki
+City not found. Skipping...
+Processing record 177 | ('Skibbereen', 2961459)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=skibbereen
+Processing record 178 | ('Yalutorovsk', 1486468)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yalutorovsk
+Processing record 179 | ('Swindon', 2636389)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=swindon
+Processing record 180 | ('Itarema', 3393692)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=itarema
+Processing record 181 | ('Nagato', 1899102)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nagato
+Processing record 182 | ('Boa Vista', 3664980)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=boa vista
+City not found. Skipping...
+Processing record 183 | ('Rutana', 433635)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rutana
+Processing record 184 | ('Umm Kaddadah', 364933)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=umm kaddadah
+Processing record 185 | ('Cockburn Town', 3576994)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cockburn town
+Processing record 186 | ('Coahuayana', 3981460)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=coahuayana
+Processing record 187 | ('Riyadh', 108410)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=riyadh
+Processing record 188 | ('Colares', 2269142)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=colares
+Processing record 189 | ('Klaksvik', 2618795)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=klaksvik
+Processing record 190 | ('Bud', 7626370)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bud
+Processing record 191 | ('Evensk', 2125693)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=evensk
+Processing record 192 | ('Miles City', 5666176)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=miles city
+Processing record 193 | ('Moi', 3145617)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=moi
+City not found. Skipping...
+Processing record 194 | ('Balkhash', 1525798)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=balkhash
+Processing record 195 | ('Bereznik', 577240)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bereznik
+City not found. Skipping...
+Processing record 196 | ('Fairbanks', 5861897)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=fairbanks
+Processing record 197 | ('Sinnamary', 3380290)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sinnamary
+Processing record 198 | ('Dunedin', 2191562)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dunedin
+Processing record 199 | ('Morondava', 1058381)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=morondava
+Processing record 200 | ('Gandajika', 216449)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gandajika
+Processing record 201 | ('Caravelas', 3466980)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=caravelas
+Processing record 202 | ('Luderitz', 3355672)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=luderitz
+Processing record 203 | ('Rudnogorsk', 2017378)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rudnogorsk
+Processing record 204 | ('Qandala', 53157)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=qandala
+City not found. Skipping...
+Processing record 205 | ('Virginia Beach', 4791259)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=virginia beach
+Processing record 206 | ('Richards Bay', 962367)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=richards bay
+Processing record 207 | ('Saskylakh', 2017155)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saskylakh
+Processing record 208 | ('Pitanga', 3453478)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pitanga
+Processing record 209 | ('Yenagoa', 2318123)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yenagoa
+Processing record 210 | ('Hokitika', 2206894)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hokitika
+Processing record 211 | ('Ayagoz', 1525988)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ayagoz
+Processing record 212 | ('Bima', 1648759)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bima
+Processing record 213 | ('Gombong', 1649595)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gombong
+Processing record 214 | ('La Rioja', 3848950)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=la rioja
+Processing record 215 | ('Pisco', 3932145)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pisco
+Processing record 216 | ('Kaeo', 2189343)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kaeo
+Processing record 217 | ('Dembi Dolo', 339448)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dembi dolo
+Processing record 218 | ('Cidreira', 3466165)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cidreira
+Processing record 219 | ('Bathsheba', 3374083)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bathsheba
+Processing record 220 | ('Deer Lake', 5937252)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=deer lake
+City not found. Skipping...
+Processing record 221 | ('Bo Rai', 1611578)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bo rai
+Processing record 222 | ('Enniscorthy', 2964403)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=enniscorthy
+Processing record 223 | ('Kilis', 307864)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kilis
+Processing record 224 | ('Grand Gaube', 934479)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=grand gaube
+Processing record 225 | ('Chapais', 5919850)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chapais
+Processing record 226 | ('Dekar', 933815)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dekar
+Processing record 227 | ('Chitral', 1181065)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chitral
+Processing record 228 | ('Novouzensk', 517739)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=novouzensk
+Processing record 229 | ('Iqaluit', 5983720)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=iqaluit
+Processing record 230 | ('Terenos', 3446619)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=terenos
+Processing record 231 | ('Preston', 2639912)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=preston
+Processing record 232 | ('Acapulco', 3533462)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=acapulco
+Processing record 233 | ('Yinchuan', 1786657)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yinchuan
+Processing record 234 | ('Ranong', 1150965)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ranong
+Processing record 235 | ('Vestmanna', 2610343)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vestmanna
+Processing record 236 | ('Norilsk', 1497337)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=norilsk
+Processing record 237 | ('Dapaong', 2367164)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dapaong
+Processing record 238 | ('Haapiti', 4034438)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=haapiti
+Processing record 239 | ('Gravdal', 3147822)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gravdal
+Processing record 240 | ('Provideniya', 4031574)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=provideniya
+Processing record 241 | ('Jumla', 1283285)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jumla
+Processing record 242 | ('Urucui', 3385658)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=urucui
+Processing record 243 | ('Chepo', 3712505)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chepo
+Processing record 244 | ('Mangaldai', 1263787)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mangaldai
+City not found. Skipping...
+Processing record 245 | ('Kokopo', 2093685)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kokopo
+Processing record 246 | ('Suzun', 1490551)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=suzun
+Processing record 247 | ('Kjollefjord', 779261)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kjollefjord
+Processing record 248 | ('Tiarei', 4033356)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tiarei
+City not found. Skipping...
+Processing record 249 | ('Norman Wells', 6089245)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=norman wells
+City not found. Skipping...
+City not found. Skipping...
+Processing record 250 | ('Mitsamiouli', 921786)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mitsamiouli
+Processing record 251 | ('Bonthe', 2409914)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bonthe
+Processing record 252 | ('Ostrovnoy', 556268)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ostrovnoy
+Processing record 253 | ('Port Harcourt', 2324774)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port harcourt
+Processing record 254 | ('Araouane', 2460954)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=araouane
+Processing record 255 | ('Parfenyevo', 512576)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=parfenyevo
+Processing record 256 | ('Victoria', 1733782)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=victoria
+Processing record 257 | ('Ilulissat', 3423146)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ilulissat
+Processing record 258 | ('Fortuna', 2517679)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=fortuna
+Processing record 259 | ('Katherine', 2068655)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=katherine
+Processing record 260 | ('Katobu', 1640972)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=katobu
+Processing record 261 | ('Newport', 2641598)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=newport
+Processing record 262 | ('Airai', 1651810)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=airai
+Processing record 263 | ('Coihaique', 3894426)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=coihaique
+Processing record 264 | ('Henties Bay', 3356832)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=henties bay
+Processing record 265 | ('Codrington', 2160063)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=codrington
+Processing record 266 | ('Clyde River', 5924351)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=clyde river
+Processing record 267 | ('Wajir', 178443)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=wajir
+Processing record 268 | ('Tautira', 4033557)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tautira
+Processing record 269 | ('Amahai', 1651591)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=amahai
+Processing record 270 | ('Dickinson', 5688789)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dickinson
+Processing record 271 | ('Mpraeso', 2297834)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mpraeso
+Processing record 272 | ('Kyabram', 2160910)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kyabram
+Processing record 273 | ('Adre', 245669)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=adre
+Processing record 274 | ('Castro', 3896218)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=castro
+Processing record 275 | ('Nishihara', 1850144)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nishihara
+Processing record 276 | ('Lure', 2997076)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lure
+Processing record 277 | ('Ambon', 3037899)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ambon
+City not found. Skipping...
+Processing record 278 | ('Surt', 2210554)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=surt
+Processing record 279 | ('Charlestown', 5221384)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=charlestown
+Processing record 280 | ('Thompson', 6165406)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=thompson
+Processing record 281 | ('Dwarka', 1273294)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dwarka
+Processing record 282 | ('Winnemucca', 5710360)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=winnemucca
+Processing record 283 | ('Lavrentiya', 4031637)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lavrentiya
+Processing record 284 | ('Jiazi', 1894019)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jiazi
+Processing record 285 | ('Salalah', 286621)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=salalah
+Processing record 286 | ('Grindavik', 3416888)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=grindavik
+Processing record 287 | ('Russell', 3844421)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=russell
+Processing record 288 | ('Paita', 3694112)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=paita
+Processing record 289 | ('Te Anau', 2181625)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=te anau
+Processing record 290 | ('Wucheng', 1805528)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=wucheng
+Processing record 291 | ('Cayhagan', 1717550)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cayhagan
+Processing record 292 | ('Namibe', 3347019)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=namibe
+City not found. Skipping...
+Processing record 293 | ('Lyuban', 625721)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lyuban
+Processing record 294 | ('Trorod', 2611189)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=trorod
+Processing record 295 | ('Viedma', 3832899)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=viedma
+Processing record 296 | ('Atambua', 1651103)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=atambua
+Processing record 297 | ('Khipro', 1173889)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=khipro
+Processing record 298 | ('San Cristobal', 3652462)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=san cristobal
+Processing record 299 | ('Navirai', 3456368)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=navirai
+Processing record 300 | ('Severo-Kurilsk', 2121385)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=severo-kurilsk
+Processing record 301 | ('Sao Filipe', 3374210)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sao filipe
+Processing record 302 | ('Sitka', 4267710)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sitka
+Processing record 303 | ('Namatanai', 2090021)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=namatanai
+Processing record 304 | ('Kyabe', 2429344)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kyabe
+City not found. Skipping...
+Processing record 305 | ('Laurel', 5661766)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=laurel
+Processing record 306 | ('Pangody', 1495626)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pangody
+City not found. Skipping...
+Processing record 307 | ('Hot Springs', 4115412)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hot springs
+Processing record 308 | ('Zyryanka', 2119283)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=zyryanka
+Processing record 309 | ('Pueblo Nuevo', 4002745)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pueblo nuevo
+Processing record 310 | ('Rocha', 3440777)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rocha
+City not found. Skipping...
+Processing record 311 | ('Kushima', 1895695)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kushima
+Processing record 312 | ('Laksham', 1185183)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=laksham
+Processing record 313 | ('Cherskiy', 2126199)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cherskiy
+Processing record 314 | ('The Pas', 6164499)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=the pas
+Processing record 315 | ('Sarangani', 1687186)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sarangani
+Processing record 316 | ('Azuaga', 2521436)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=azuaga
+Processing record 317 | ('La Ronge', 6050066)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=la ronge
+Processing record 318 | ('Agadez', 2448085)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=agadez
+Processing record 319 | ('Coos Bay', 5720495)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=coos bay
+Processing record 320 | ('Ketchikan', 5554428)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ketchikan
+Processing record 321 | ('Lahij', 73560)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lahij
+Processing record 322 | ('Copenhagen', 2618425)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=copenhagen
+Processing record 323 | ('Tiksi', 2015306)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tiksi
+Processing record 324 | ('Bonavista', 5905393)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bonavista
+Processing record 325 | ('Lorengau', 2092164)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lorengau
+Processing record 326 | ('Broken Hill', 2173911)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=broken hill
+Processing record 327 | ('Pechenga', 511866)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pechenga
+Processing record 328 | ('Hobyo', 57000)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hobyo
+Processing record 329 | ('Narsaq', 3421719)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=narsaq
+City not found. Skipping...
+Processing record 330 | ('Kruisfontein', 986717)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kruisfontein
+Processing record 331 | ('Petersburg', 4778626)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=petersburg
+Processing record 332 | ('Gweru', 890422)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gweru
+Processing record 333 | ('Kartaly', 1504317)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kartaly
+City not found. Skipping...
+Processing record 334 | ('Faya', 110690)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=faya
+Processing record 335 | ('Cam Ranh', 1586350)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cam ranh
+Processing record 336 | ('Fukue', 1848373)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=fukue
+Processing record 337 | ('Rafai', 236524)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rafai
+City not found. Skipping...
+Processing record 338 | ('Cubuk', 748870)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cubuk
+Processing record 339 | ('Vodnyy', 472976)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vodnyy
+Processing record 340 | ('Sabancuy', 3520161)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sabancuy
+Processing record 341 | ('Samarai', 2132606)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=samarai
+Processing record 342 | ('Hailey', 5594956)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hailey
+Processing record 343 | ('Batagay', 2027044)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=batagay
+Processing record 344 | ('Chumikan', 2025256)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chumikan
+Processing record 345 | ('Tecoanapa', 3532499)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tecoanapa
+Processing record 346 | ('Sao Paulo de Olivenca', 3662252)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sao paulo de olivenca
+Processing record 347 | ('Kindu', 212902)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kindu
+Processing record 348 | ('Katangli', 2122783)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=katangli
+Processing record 349 | ('Manta', 685981)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=manta
+Processing record 350 | ('Kailua', 5847486)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kailua
+Processing record 351 | ('Saldanha', 2737599)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saldanha
+Processing record 352 | ('Gamba', 1281256)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gamba
+Processing record 353 | ('Youghal', 2960869)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=youghal
+Processing record 354 | ('Riberalta', 3906466)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=riberalta
+Processing record 355 | ('Bowen', 2174444)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bowen
+Processing record 356 | ('Bundibugyo', 234178)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bundibugyo
+Processing record 357 | ('Pesaro', 3171173)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pesaro
+Processing record 358 | ('Oyama', 1853483)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=oyama
+Processing record 359 | ('Yanam', 1252795)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yanam
+Processing record 360 | ('Westport', 2960970)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=westport
+City not found. Skipping...
+Processing record 361 | ('Jinxiang', 1787335)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jinxiang
+Processing record 362 | ('Kuching', 1735634)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kuching
+Processing record 363 | ('Woodbury', 5053358)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=woodbury
+Processing record 364 | ('Tulle', 2971482)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tulle
+Processing record 365 | ('Iquique', 3887127)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=iquique
+Processing record 366 | ('Mandiana', 2417795)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mandiana
+Processing record 367 | ('Turayf', 101312)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=turayf
+Processing record 368 | ('Tessalit', 2449893)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tessalit
+Processing record 369 | ('Cairns', 2172797)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cairns
+Processing record 370 | ('Harlingen', 4696233)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=harlingen
+Processing record 371 | ('Half Moon Bay', 5354943)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=half moon bay
+City not found. Skipping...
+Processing record 372 | ('Dese', 3173529)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dese
+City not found. Skipping...
+Processing record 373 | ('Tuatapere', 2180815)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tuatapere
+Processing record 374 | ('Tire', 299137)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tire
+Processing record 375 | ('Tazovskiy', 1489853)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tazovskiy
+Processing record 376 | ('Avera', 4231997)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=avera
+Processing record 377 | ('Huarmey', 3939168)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=huarmey
+City not found. Skipping...
+Processing record 378 | ('Leningradskiy', 2123814)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=leningradskiy
+Processing record 379 | ('Livingston', 4073383)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=livingston
+Processing record 380 | ('Gallup', 5468773)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gallup
+Processing record 381 | ('Jiangkou', 1814934)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jiangkou
+City not found. Skipping...
+Processing record 382 | ('Sydney', 2147714)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sydney
+Processing record 383 | ('Arman', 2127060)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=arman
+Processing record 384 | ('Mercedes', 3441684)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mercedes
+Processing record 385 | ('Nanortalik', 3421765)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nanortalik
+Processing record 386 | ('Okhotsk', 2122605)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=okhotsk
+Processing record 387 | ('Nantucket', 4944903)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nantucket
+Processing record 388 | ('Mehamn', 778707)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mehamn
+Processing record 389 | ('Merauke', 2082539)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=merauke
+Processing record 390 | ('Deputatskiy', 2028164)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=deputatskiy
+City not found. Skipping...
+Processing record 391 | ('Karachev', 552920)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=karachev
+Processing record 392 | ('Ambilobe', 1082243)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ambilobe
+Processing record 393 | ('Chuy', 3443061)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chuy
+Processing record 394 | ('Hovd', 7626384)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hovd
+Processing record 395 | ('Timbuktu', 2449067)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tombouctou
+Processing record 396 | ('Nouakchott', 2377450)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nouakchott
+Processing record 397 | ('Waipawa', 2185329)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=waipawa
+Processing record 398 | ('Longkou', 1802550)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=longkou
+Processing record 399 | ('Roald', 3141667)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=roald
+Processing record 400 | ('Margate', 2158744)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=margate
+Processing record 401 | ('Saint-Francois', 2980080)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint-francois
+Processing record 402 | ('Fereydun Kenar', 134602)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=fereydun kenar
+Processing record 403 | ('Port Hedland', 2063042)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port hedland
+Processing record 404 | ('Gniezno', 3099112)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gniezno
+City not found. Skipping...
+Processing record 405 | ('Yulara', 6355222)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yulara
+Processing record 406 | ('Yar-Sale', 1486321)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=yar-sale
+Processing record 407 | ('Buala', 2109528)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=buala
+Processing record 408 | ('Chitrakonda', 1274055)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=chitrakonda
+City not found. Skipping...
+Processing record 409 | ('Tabuk', 1684803)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tabuk
+Processing record 410 | ('Grande Prairie', 5964347)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=grande prairie
+Processing record 411 | ('Pailon', 3909010)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=pailon
+Processing record 412 | ('Talnakh', 1490256)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=talnakh
+Processing record 413 | ('Nkhotakota', 924705)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nkhotakota
+Processing record 414 | ('Esperance', 3573739)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=esperance
+Processing record 415 | ('Puerto Leguizamo', 3671437)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=puerto leguizamo
+Processing record 416 | ('Broome', 2656067)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=broome
+Processing record 417 | ('Ixtapa', 4004293)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ixtapa
+Processing record 418 | ('Luzhou', 1801640)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=luzhou
+Processing record 419 | ('La Baneza', 3119979)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=la baneza
+Processing record 420 | ('Shunyi', 2034754)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=shunyi
+Processing record 421 | ('Port Moresby', 2088122)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port moresby
+Processing record 422 | ('Iracoubo', 3381428)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=iracoubo
+Processing record 423 | ('Ongandjera', 3354178)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ongandjera
+Processing record 424 | ('Tikrit', 90150)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tikrit
+Processing record 425 | ('Carnarvon', 1014034)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=carnarvon
+Processing record 426 | ('Mandan', 5690366)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mandan
+Processing record 427 | ('Bubaque', 2374583)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bubaque
+Processing record 428 | ('Lydenburg', 981158)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=lydenburg
+Processing record 429 | ('La Peca', 3695675)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=la peca
+Processing record 430 | ('Arroyo', 5208292)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=arroyo
+Processing record 431 | ('Urucara', 3385670)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=urucara
+Processing record 432 | ('Strezhevoy', 1490796)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=strezhevoy
+Processing record 433 | ('Imbituba', 3461370)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=imbituba
+Processing record 434 | ('Maniitsoq', 3421982)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=maniitsoq
+Processing record 435 | ('Kisangani', 212730)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kisangani
+Processing record 436 | ('Parakai', 2184927)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=parakai
+Processing record 437 | ('Santa Lucia', 2522890)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=santa lucia
+Processing record 438 | ('Vila Velha', 6320062)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=vila velha
+Processing record 439 | ('Atasu', 1526041)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=atasu
+City not found. Skipping...
+Processing record 440 | ('Isangel', 2136825)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=isangel
+City not found. Skipping...
+Processing record 441 | ('Hibbing', 5030005)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hibbing
+City not found. Skipping...
+Processing record 442 | ('Warri', 2319133)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=warri
+Processing record 443 | ('Homer', 5864145)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=homer
+Processing record 444 | ('Hermiston', 5731070)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hermiston
+Processing record 445 | ('Balkanabat', 161616)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=balkanabat
+Processing record 446 | ('Ewa Beach', 5855051)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ewa beach
+Processing record 447 | ('Marzuq', 72181)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=marzuq
+Processing record 448 | ('Hamilton', 3573197)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hamilton
+City not found. Skipping...
+Processing record 449 | ('Ryotsu', 1853371)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ryotsu
+Processing record 450 | ('Simbahan', 1695180)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=simbahan
+Processing record 451 | ('Camacha', 2270385)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=camacha
+Processing record 452 | ('Nabire', 1634614)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nabire
+Processing record 453 | ('Gouyave', 3580279)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gouyave
+Processing record 454 | ('Maiduguri', 2331447)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=maiduguri
+Processing record 455 | ('Port Macquarie', 2152659)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=port macquarie
+Processing record 456 | ('Rumoi', 2128382)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=rumoi
+Processing record 457 | ('Santa Isabel do Rio Negro', 3662489)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=santa isabel do rio negro
+Processing record 458 | ('Tshikapa', 204953)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tshikapa
+Processing record 459 | ('Cedar City', 5536630)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cedar city
+Processing record 460 | ('Polyarnyy', 506763)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=polyarnyy
+Processing record 461 | ('Edd', 338345)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=edd
+Processing record 462 | ('Makubetsu', 2128815)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=makubetsu
+Processing record 463 | ('Antonovo', 1489554)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=antonovo
+City not found. Skipping...
+Processing record 464 | ('Acajutla', 3587498)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=acajutla
+Processing record 465 | ('Demirci', 317241)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=demirci
+Processing record 466 | ('Leshukonskoye', 535839)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=leshukonskoye
+Processing record 467 | ('Tambun', 1734634)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tambun
+Processing record 468 | ('Anadyr', 2127202)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=anadyr
+Processing record 469 | ('El Playon', 3672077)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=el playon
+Processing record 470 | ('Saint-Pierre', 2995603)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=saint-pierre
+Processing record 471 | ('Sur', 286245)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sur
+Processing record 472 | ('Kununurra', 2068110)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kununurra
+Processing record 473 | ('Canutama', 3664716)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=canutama
+Processing record 474 | ('Banda Aceh', 1215502)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=banda aceh
+Processing record 475 | ('Kongolo', 212360)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kongolo
+Processing record 476 | ('Waingapu', 1622318)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=waingapu
+Processing record 477 | ('Mahuva', 1267454)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mahuva
+Processing record 478 | ('Bonga', 341742)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bonga
+City not found. Skipping...
+Processing record 479 | ('North Bend', 5742974)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=north bend
+City not found. Skipping...
+Processing record 480 | ('Olavarria', 3842670)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=olavarria
+Processing record 481 | ('Nuuk', 3421319)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nuuk
+Processing record 482 | ('Praia da Vitoria', 3372760)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=praia da vitoria
+Processing record 483 | ('Gaspar', 3462535)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gaspar
+Processing record 484 | ('Sao Jose da Coroa Grande', 3388456)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sao jose da coroa grande
+Processing record 485 | ('Mount Isa', 2065594)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mount isa
+Processing record 486 | ('Arlit', 2447513)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=arlit
+Processing record 487 | ('Champerico', 3530097)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=champerico
+Processing record 488 | ('Iseyin', 2337181)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=iseyin
+Processing record 489 | ('Cayenne', 3382160)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=cayenne
+Processing record 490 | ('Mayo', 6068416)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mayo
+Processing record 491 | ('Paamiut', 3421193)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=paamiut
+Processing record 492 | ('Bronnoysund', 3159954)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bronnoysund
+Processing record 493 | ('Botevgrad', 733014)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=botevgrad
+Processing record 494 | ('Valdivia', 3868707)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=valdivia
+Processing record 495 | ('Atar', 2381334)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=atar
+Processing record 496 | ('Sept-Iles', 6144312)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sept-iles
+City not found. Skipping...
+Processing record 497 | ('Kaligutan', 1958729)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kaligutan
+Processing record 498 | ('Buchanan', 2278158)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=buchanan
+Processing record 499 | ('Porto Empedocle', 6541341)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=porto empedocle
+Processing record 500 | ('Tadine', 2138285)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tadine
+City not found. Skipping...
+City not found. Skipping...
+Processing record 501 | ('Shelburne', 6145890)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=shelburne
+Processing record 502 | ('Egvekinot', 4031742)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=egvekinot
+Processing record 503 | ('Faxinal', 3463573)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=faxinal
+Processing record 504 | ('Sergeyevka', 1519385)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sergeyevka
+City not found. Skipping...
+Processing record 505 | ('Sidi Ali', 2487130)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sidi ali
+Processing record 506 | ('Hofn', 2630299)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=hofn
+Processing record 507 | ('Sidney', 5677735)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sidney
+Processing record 508 | ('Altinopolis', 3472485)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=altinopolis
+Processing record 509 | ('Husavik', 5961417)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=husavik
+Processing record 510 | ('West Odessa', 5533366)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=west odessa
+Processing record 511 | ('Dinan', 3021356)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dinan
+Processing record 512 | ('Kysyl-Syr', 2021017)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kysyl-syr
+City not found. Skipping...
+Processing record 513 | ('Aswan', 359792)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=aswan
+Processing record 514 | ('Xining', 1788852)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=xining
+City not found. Skipping...
+Processing record 515 | ('Tilichiki', 2120591)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tilichiki
+Processing record 516 | ('Dubno', 709540)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=dubno
+Processing record 517 | ('Jalu', 86049)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jalu
+Processing record 518 | ('Kavaratti', 1267390)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kavaratti
+Processing record 519 | ('Labuhan', 1641899)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=labuhan
+Processing record 520 | ('Necochea', 3430443)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=necochea
+Processing record 521 | ('La Paz', 4000900)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=la paz
+Processing record 522 | ('Thanh Hoa', 1574023)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=thanh hoa
+Processing record 523 | ('Kudahuvadhoo', 1337607)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kudahuvadhoo
+Processing record 524 | ('Voh', 2137748)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=voh
+Processing record 525 | ('Nigran', 3115463)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nigran
+Processing record 526 | ('Nemuro', 2128975)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nemuro
+Processing record 527 | ('Bar Bigha', 1277038)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bar bigha
+Processing record 528 | ('Talaya', 1485724)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=talaya
+City not found. Skipping...
+Processing record 529 | ('Tommot', 2015179)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=tommot
+Processing record 530 | ('Joura', 1268823)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=joura
+Processing record 531 | ('Bukama', 217834)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bukama
+Processing record 532 | ('Calama', 3897347)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=calama
+City not found. Skipping...
+Processing record 533 | ('Kazerun', 128321)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kazerun
+Processing record 534 | ('Verrettes', 3716044)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=verrettes
+Processing record 535 | ('Ajaccio', 6452235)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=ajaccio
+Processing record 536 | ('Naryan-Mar', 523392)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=naryan-mar
+Processing record 537 | ('Alta Floresta', 6316343)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=alta floresta
+Processing record 538 | ('Antofagasta', 3899539)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=antofagasta
+Processing record 539 | ('Galesong', 1644605)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=galesong
+Processing record 540 | ('San Quintin', 1688687)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=san quintin
+Processing record 541 | ('Sabang', 1691355)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=sabang
+Processing record 542 | ('Nome', 4732862)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=nome
+Processing record 543 | ('Begoro', 2303236)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=begoro
+Processing record 544 | ('Kupang', 2057087)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kupang
+Processing record 545 | ('Houston', 4699066)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=houston
+City not found. Skipping...
+Processing record 546 | ('Baculin', 1729469)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=baculin
+Processing record 547 | ('Kisesa', 152224)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kisesa
+City not found. Skipping...
+Processing record 548 | ('Mombetsu', 2129163)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=mombetsu
+Processing record 549 | ('Iwanai', 2129868)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=iwanai
+Processing record 550 | ('Guerrero Negro', 4021858)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=guerrero negro
+Processing record 551 | ('Kautokeino', 779330)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=kautokeino
+City not found. Skipping...
+Processing record 552 | ('Taltal', 3870243)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=taltal
+Processing record 553 | ('Beringovskiy', 2126710)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=beringovskiy
+Processing record 554 | ('Jales', 3460186)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=jales
+Processing record 555 | ('Bomi', 2409970)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=bomi
+Processing record 556 | ('San Juan', 1692193)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=san juan
+City not found. Skipping...
+Processing record 557 | ('Morden', 6078447)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=morden
+Processing record 558 | ('Gucheng', 1804386)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=gucheng
+Processing record 559 | ('Takoradi', 2294915)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=takoradi
+Processing record 560 | ('Simao', 1794209)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=simao
+Processing record 561 | ('Caibarien', 3566356)
+http://api.openweathermap.org/data/2.5/weather?appid=e7049c2afdfec90a654f7283a99e369a&q=caibarien
+----------------------------------
+Data Retrieval Complete
+----------------------------------
